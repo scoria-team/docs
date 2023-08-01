@@ -1,25 +1,32 @@
 # Privacy Policy
 
-*Jun 26, 2023*
+*Aug 1, 2023, [view
+history](https://github.com/scoria-team/docs/commits/main/privacy_policy.md)*
 
 Privacy is a big part of why Scoria exists. Your location data reveals a
-tremendous amount about who you are. Yet there is a lack of effective tools for
-privately collecting and analyzing this data. Our goal is to make tools which
-are not only private and secure, but also help you better understand your own
-private information.
+tremendous amount about who you are. It is deeply personal, private, and
+sensitive. Though you can learn a lot from this data, there is a lack of
+effective tools for privately collecting and analyzing it. Our goal is to make
+tools which are not only private and secure, but also help you better understand
+your own private information without making any privacy compromises.
 
-## No Data Shared Unless Explicitly Consented
+## No Data or Metadata Shared Unless Explicitly Consented
 
-Scoria's purpose is to help you privately collect and analyze your own personal
-data. Data collected by the app is kept on your device and is only accessible to
-you. Scoria does not automatically collect any logged data, usage statistics, or
-personally-identifiable information. Your private data will never be shared with
-anyone (including us) without your explicit consent.
+Data collected by the app is kept on your device and is only accessible to you.
+Scoria does not automatically collect any logged data, personally-identifiable
+information, app usage statistics, or other metadata. We do not make any
+assumptions about what data is sensitive and what data isn't. We do not know if
+you use the app or not, how much you use the app, or if the app crashes while
+you're using it. (If the app crashes, please consider letting us know via the
+feedback form so we can fix it.) Only you have the authority to determine what
+information can be shared with others, and what information is for your eyes
+only. Your private data will never be shared with anyone (including us) without
+your explicit consent.
 
-"Explicit consent" means that you are aware your information is being shared
-when it happens, that you are aware what information is being shared, and that
-you are voluntarily agreeing to share. Currently, this can only happen if you
-submit feedback to us, like when reporting a bug on our website.
+"Explicit consent" means that you are aware your information is being shared at
+the time of sharing, that you are aware what information is being shared, and
+that you are voluntarily agreeing to share. Currently, this can only happen if
+you submit feedback to us, like when reporting a bug on our website.
 
 ## Third-Party Maps
 
@@ -41,7 +48,7 @@ Aside from Maptiler, information is not sent to any other third parties.
 
 ## Summary
 
-- Scoria does not automatically collect any data from you.
+- Scoria does not automatically collect any data or metadata from you.
 - Scoria will always ask for your explicit consent before sharing your data with
   anyone.
 - Map data is downloaded to your device over the internet from our third-party
